@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-batch-job-queue
+friendly_name: Job Queue for AWS Batch
+description: Produces a job queue for AWS Batch
+category: cluster-namespace
+subcategory: ""
+provider_types:
+    - aws
+platform: ecs
+subplatform: fargate
+type: ""
+appCategories: []
+is_public: true
